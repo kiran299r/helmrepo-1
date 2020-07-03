@@ -9,6 +9,6 @@ entries:
     name: javawebapp
     type: application
     urls:
-    - https://github.com/MithunTechnologiesDevOps/helmrepo/javawebapp-0.1.0.tgz
+    - https://mithuntechnologiesdevops.github.io/helmrepo/javawebapp-0.1.0.tgz
     version: 0.1.0
 generated: "2020-07-03T18:53:50.864003935Z"
